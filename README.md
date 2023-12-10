@@ -1,2 +1,9 @@
 index.html
-https://github.com/VB-deeksha/VB-deeksha.github.io/tree/main
+blog-single.html
+blog-single1.html
+blog-single2.html
+portfolio-details.html
+portfolio-details1.html
+portfolio-details2.html
+portfolio-details3.html
+portfolio-details4.html
