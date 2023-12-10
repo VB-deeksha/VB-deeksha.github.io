@@ -7,4 +7,5 @@ portfolio-details1.html
 portfolio-details2.html
 portfolio-details3.html
 portfolio-details4.html
-https://github.com/VB-deeksha/VB-deeksha.github.io/tree/main/assets
+
+style.css
